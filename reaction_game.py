@@ -1,6 +1,6 @@
-from sense_hat import SenseHat
-import time
-import random
+from sense_hat import SenseHat 
+import time 
+import random 
 
 sense = SenseHat()
 
